@@ -61,6 +61,7 @@ f446de335565fb0b0ee5e5a3266703c778b2f3dfad7efeaeccb2da5641a6d6eb
 ### 4. Protocol Analysis
 
 **Question:** Use the "Exercise.pcapng" file to answer the questions. View packet number 38. Which markup language is used under the HTTP protocol? 
+
 <img width="559" height="897" alt="GetImage (4)" src="https://github.com/user-attachments/assets/86c94e1f-7420-4d02-945a-fdc7b581c440" />
 
 
