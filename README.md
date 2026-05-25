@@ -28,6 +28,7 @@ packet dissection, and protocol analysis.
 - It will display the Capture File Properties, on the capture file comments seccion will shows the flag 
 <img width="1119" height="621" alt="GetImage (1)" src="https://github.com/user-attachments/assets/0234875d-bf17-4916-b87a-ffe47ea4ed32" />
 
+
 **Answer:** TryHackMe_Wireshark_Demo
 
 ---
