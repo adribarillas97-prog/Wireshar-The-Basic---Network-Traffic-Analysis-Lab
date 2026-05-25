@@ -1,3 +1,4 @@
+<img width="1018" height="631" alt="GetImage (3)" src="https://github.com/user-attachments/assets/61d1d57e-7e8e-4837-816c-2bd0eb93078d" />
 # Wireshar-The-Basic---Network-Traffic-Analysis-Lab
 
 # Wireshark: The Basics — Network Traffic Analysis Lab
@@ -47,6 +48,8 @@ packet dissection, and protocol analysis.
 ### 3. File Integrity
 
 **Question:** What is the SHA256 hash value of the capture file?
+<img width="1018" height="631" alt="GetImage (3)" src="https://github.com/user-attachments/assets/f7ba9d5a-d354-4766-a4d1-9c4f7c10b529" />
+
 
 **Answer:**
 f446de335565fb0b0ee5e5a3266703c778b2f3dfad7efeaeccb2da5641a6d6eb
