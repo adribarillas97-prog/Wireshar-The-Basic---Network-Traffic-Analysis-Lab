@@ -36,6 +36,9 @@ packet dissection, and protocol analysis.
 ### 2. Packet Count
 
 **Question:** What is the total number of packets?
+<img width="1137" height="620" alt="GetImage (2)" src="https://github.com/user-attachments/assets/3f7dd92c-0f88-4bfd-a9b9-cc6245738bf5" />
+
+
 
 **Answer:** 58,620
 
