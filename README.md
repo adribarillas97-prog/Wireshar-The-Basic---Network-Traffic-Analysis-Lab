@@ -22,6 +22,8 @@ packet dissection, and protocol analysis.
 
 **Steps:**
 - Opened Exercise.pcapng in Wireshark
+- <img width="464" height="622" alt="GetImage" src="https://github.com/user-attachments/assets/0f3236e6-35ce-4dfc-9055-b894fb324850" />
+
 - Clicked the pen/notes icon to open Capture File Properties
 - Found the flag in the Capture File Comments section
 
