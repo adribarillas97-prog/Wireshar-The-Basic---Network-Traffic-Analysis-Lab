@@ -25,7 +25,8 @@ packet dissection, and protocol analysis.
 - Clicked the pen/notes icon to open Capture File Properties
  <img width="464" height="622" alt="GetImage" src="https://github.com/user-attachments/assets/e520a669-5d94-4c1f-83c7-b0f9d1157ea9" />
 
-- Found the flag in the Capture File Comments section
+- It will display the Capture File Properties, on the capture file comments seccion will shows the flag 
+<img width="1119" height="621" alt="GetImage (1)" src="https://github.com/user-attachments/assets/0234875d-bf17-4916-b87a-ffe47ea4ed32" />
 
 **Answer:** TryHackMe_Wireshark_Demo
 
