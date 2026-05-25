@@ -1,4 +1,4 @@
-<img width="1018" height="631" alt="GetImage (3)" src="https://github.com/user-attachments/assets/61d1d57e-7e8e-4837-816c-2bd0eb93078d" />
+
 # Wireshar-The-Basic---Network-Traffic-Analysis-Lab
 
 # Wireshark: The Basics — Network Traffic Analysis Lab
