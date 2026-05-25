@@ -22,9 +22,9 @@ packet dissection, and protocol analysis.
 
 **Steps:**
 - Opened Exercise.pcapng in Wireshark
-- <img width="464" height="622" alt="GetImage" src="https://github.com/user-attachments/assets/0f3236e6-35ce-4dfc-9055-b894fb324850" />
-
 - Clicked the pen/notes icon to open Capture File Properties
+ <img width="464" height="622" alt="GetImage" src="https://github.com/user-attachments/assets/e520a669-5d94-4c1f-83c7-b0f9d1157ea9" />
+
 - Found the flag in the Capture File Comments section
 
 **Answer:** TryHackMe_Wireshark_Demo
