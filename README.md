@@ -76,8 +76,9 @@ f446de335565fb0b0ee5e5a3266703c778b2f3dfad7efeaeccb2da5641a6d6eb
 - What is the arrival date of the packet? (Answer format: Month/Day/Year) 
 
 We click on the Interface id drop manu 
-<img width="571" height="200" alt="GetImage (5)" src="https://github.com/user-attachments/assets/e9eccc5c-5d70-44ff-a478-51d0edd1230f" />
 
+
+<img width="571" height="200" alt="GetImage (5)" src="https://github.com/user-attachments/assets/c8cfa0da-ff93-4f50-ae4d-0bd9db6aff50" />
 
 **Answer:** 05/13/2024
 
