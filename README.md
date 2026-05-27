@@ -108,6 +108,12 @@ We click on the Interface id drop manu
 
 ### 8. E-Tag Value
 
+- What is the e-tag value? 
+(For example: 82ecb-6321-9e904585)
+
+<img width="1031" height="358" alt="GetImage (8)" src="https://github.com/user-attachments/assets/567a847f-404c-44b5-a39f-9fc69895af08" />
+
+
 **Answer:** 9a01a-4696-7e354b00
 
 ---
