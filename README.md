@@ -98,6 +98,10 @@ We click on the Interface id drop manu
 
 ### 7. TCP Payload Size
 
+- What is the TCP payload size?
+
+  <img width="1031" height="358" alt="GetImage (8)" src="https://github.com/user-attachments/assets/cc3d0141-f442-4d23-90a4-e972295ee438" />
+
 **Answer:** 424 bytes
 
 ---
