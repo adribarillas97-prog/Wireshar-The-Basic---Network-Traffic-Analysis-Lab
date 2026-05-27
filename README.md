@@ -87,7 +87,10 @@ We click on the Interface id drop manu
 ### 6. TTL Value
 
 **Steps:**
-- Expanded Internet Protocol Version 4 section in packet details
+- We click on Internet Protocol Version 4
+
+  <img width="667" height="316" alt="GetImage (7)" src="https://github.com/user-attachments/assets/cc8013bf-745a-47b4-8c9b-a0b9d3efad96" />
+
 
 **Answer:** 47
 
