@@ -1,7 +1,6 @@
 
 # Wireshar-The-Basic---Network-Traffic-Analysis-Lab
 
-# Wireshark: The Basics — Network Traffic Analysis Lab
 
 ## Overview
 Hands-on Wireshark lab completed on TryHackMe.
